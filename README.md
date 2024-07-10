@@ -26,11 +26,11 @@
 
 ### 2. Melatih Model
 
-Jika ingin melatih ulang model, gunakan script `model_training.py` atau `model_trainingv2.py` yang ada di folder `scripts/`.
+Jika ingin melatih ulang model, gunakan script `model_training.py` atau `model_trainingv2.py` yang ada di folder `scripts/`, pilih `model_trainingv2.py` untuk model terbaru dan robust.
 
 1. **Menjalankan script pelatihan**:
     ```bash
-    python scripts/model_training.py
+    python scripts/model_trainingv2.py
     ```
 
 ### 3. Menjalankan Server
