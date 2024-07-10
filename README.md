@@ -2,7 +2,7 @@
 
 ## Langkah-langkah Penggunaan
 
-### 1. Menyiapkan Lingkungan
+### 1. Menyiapkan environment
 
 1. **Buat virtual environment**:
     ```bash
@@ -26,7 +26,7 @@
 
 ### 2. Melatih Model
 
-Jika Anda ingin melatih ulang model, gunakan script `model_training.py` atau `model_trainingv2.py` yang ada di folder `scripts/`.
+Jika ingin melatih ulang model, gunakan script `model_training.py` atau `model_trainingv2.py` yang ada di folder `scripts/`.
 
 1. **Menjalankan script pelatihan**:
     ```bash
